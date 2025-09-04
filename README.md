@@ -6,7 +6,7 @@ This is a simple Laravel API project for managing products and user orders. It i
 
 ## Features
 
-- User registration and login (Sanctum API authentication)
+- User registration and login 
 - CRUD for products
 - Filter products by category, price, popularity
 - Users can view their purchase history
@@ -33,4 +33,4 @@ This is a simple Laravel API project for managing products and user orders. It i
 git clone https://github.com/yourusername/laravel-shop-api.git
 cd laravel-shop-api
 
-2. **Install PHP dependencies**
+
